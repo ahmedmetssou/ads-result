@@ -7,87 +7,54 @@
     },
     "categories": [
         {
-            "cid": "30",
-            "category_name": "iii",
-            "category_image": "gggggliver.png"
-        },
-        {
-            "cid": "29",
-            "category_name": "po",
-            "category_image": "gggggliver.png"
-        },
-        {
-            "cid": "28",
-            "category_name": "pp",
-            "category_image": "gggggliver.png"
-        },
-        {
-            "cid": "27",
-            "category_name": "tttt",
-            "category_image": "gggggarsen.png"
-        },
-        {
-            "cid": "26",
-            "category_name": "mser",
-            "category_image": "ggggghttps:\/\/sludgy-teachings.000webhostapp.com\/upload\/category\/1671998954_mser.png"
-        },
-        {
-            "cid": "25",
-            "category_name": "test2",
-            "category_image": "ggggghttps:\/\/sludgy-teachings.000webhostapp.com\/upload\/category\/1671998883_139739-egypt-flag-download-hq.png"
-        },
-        {
-            "cid": "24",
-            "category_name": "trrr",
-            "category_image": "ggggghttps:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/upload\/category\/1671751162_139739-egypt-flag-download-hq.png"
-        },
-        {
-            "cid": "22",
-            "category_name": "test",
-            "category_image": "ggggghttps:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/category\/1671666198_FRA.png"
-        },
-        {
-            "cid": "21",
-            "category_name": "eeee",
-            "category_image": "gggggddd1671666006_d.png"
-        },
-        {
             "cid": "13",
             "category_name": "ARABIC SPORTS",
-            "category_image": "ggggg1670424671_051_sky_sport_6_logo_stack_rgb.png"
+            "category_image": "https:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/category1670424671_051_sky_sport_6_logo_stack_rgb.png"
         },
         {
             "cid": "12",
             "category_name": "MAROC CHANNELS",
-            "category_image": "ggggg1670423361_1009544-Drapeau_du_Maroc.jpg"
+            "category_image": "https:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/category1670423361_1009544-Drapeau_du_Maroc.jpg"
         },
         {
             "cid": "11",
             "category_name": "ALGERIE CHANNELS",
-            "category_image": "ggggg1670422694_Flag_of_Algeria.svg.png"
+            "category_image": "https:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/category1670422694_Flag_of_Algeria.svg.png"
         },
         {
             "cid": "10",
             "category_name": "NEWS TV",
-            "category_image": "ggggg1670421959_k.png"
+            "category_image": "https:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/category1670421959_k.png"
         },
         {
             "cid": "9",
             "category_name": "KIDS CHANNELS",
-            "category_image": "ggggg1670421373_2021-04-21_222236.png"
+            "category_image": "https:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/categoryhttps:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/category\/1670421373_2021-04-21_222236.png"
         },
         {
             "cid": "8",
             "category_name": "FRANCE CHANNELS",
-            "category_image": "ggggg1670545398_france.jpg"
+            "category_image": "https:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/categoryhttps:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/category\/1670545398_france.jpg"
         },
         {
             "cid": "5",
             "category_name": "EGYPT CHANNELS",
-            "category_image": "ggggg1670457274_139739-egypt-flag-download-hq.png"
+            "category_image": "https:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/categoryhttps:\/\/raw.githubusercontent.com\/ahmedmetssou\/ads-result\/main\/upload\/category\/1670457274_139739-egypt-flag-download-hq.png"
         }
     ],
     "channels": [
+        {
+            "channel_id": "143",
+            "category_id": "5",
+            "channel_name": "lll",
+            "channel_image": "ever.png",
+            "channel_url": "l",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "EGYPT CHANNELS",
+            "user_agent": "default"
+        },
         {
             "channel_id": "123",
             "category_id": "13",
