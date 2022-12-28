@@ -7,21 +7,6 @@
 },
 "categories": [
 {
-"cid": "18",
-"category_name": "PSG vs RC Strasbourg",
-"category_image": "https://wahdiwna.com/test-json/upload/category/psg.png"
-},
-    {
-"cid": "17",
-"category_name": "Leeds United vs Manchester City",
-"category_image": "https://wahdiwna.com/test-json/upload/category/cioty.png"
-},
-    {
-"cid": "16",
-"category_name": "Stade Brestois 29 vs Olympique Lyonnais",
-"category_image": "https://wahdiwna.com/test-json/upload/category/lyon.png"
-},
-    {
 "cid": "14",
 "category_name": "Today Goals اهداف اليوم",
 "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/today%20goals.jpg"
@@ -69,42 +54,30 @@
 ],
 "channels": [
 {
-"channel_id": "136",
-"category_id": "18",
-"channel_name": " PSG vs RC Strasbourg ",
-"channel_image": "https://wahdiwna.com/test-json/upload/category/psg.png",
-"channel_url": "https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
-"channel_description": "",
-"channel_type": "URL",
-"video_id": "",
-"category_name": "PSG vs RC Strasbourg  ",
-"user_agent": "yestv99"
-},
-    {
-"channel_id": "135",
-"category_id": "17",
-"channel_name": " Leeds United vs Manchester City ",
-"channel_image": "https://wahdiwna.com/test-json/upload/category/cioty.png",
-"channel_url": "https://lb.buy-global.store/live/lb555/bp2-720.m3u8",
-"channel_description": "",
-"channel_type": "URL",
-"video_id": "",
-"category_name": "Leeds United vs Manchester City  ",
-"user_agent": "yestv99"
-},
-    {
 "channel_id": "134",
-"category_id": "16",
-"channel_name": " Stade Brestois 29 vs Olympique Lyonnais ",
-"channel_image": "https://wahdiwna.com/test-json/upload/category/lyon.png",
-"channel_url": "https://lb.buy-global.store/live/lb555/bs3-720.m3u8",
+"category_id": "14",
+"channel_name": " اهداف مباراة باريس سان جيرمان وستراسبورج (2-1) الدوري الفرنسي ",
+"channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/manu.png",
+"channel_url": "https://ncdnda66.ahdafsoccer.com/UpFiles/important/132/2022/12/28/243803/720p.m3u8",
 "channel_description": "",
 "channel_type": "URL",
 "video_id": "",
-"category_name": "Stade Brestois 29 vs Olympique Lyonnais  ",
-"user_agent": "yestv99"
+"category_name": " PSG 2-1 RC Strasbourg",
+"user_agent": "default"
 },
-    {
+{
+"channel_id": "133",
+"category_id": "14",
+"channel_name": " اهداف مباراة مانشستر سيتي وليدز يونايتد (3-1) الدوري الانجليزي ",
+"channel_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/manu.png",
+"channel_url": "https://ncdnda66.ahdafsoccer.com/UpFiles/important/132/2022/12/28/243795/720p.m3u8",
+"channel_description": "",
+"channel_type": "URL",
+"video_id": "",
+"category_name": " Leeds United 1-3 Manchester City",
+"user_agent": "default"
+},
+{
 "channel_id": "132",
 "category_id": "14",
 "channel_name": " اهداف مباراة مانشستر يونايتد ونوتينجهام فورست (3-0) الدوري الانجليزي ",
