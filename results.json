@@ -7,23 +7,47 @@
 },
 "categories": [
 {
+"cid": "23",
+"category_name": "Wolverhampton Wanderers -- : -- Manchester United",
+"category_image": "https://wahdiwna.com/test-json/upload/sevr.png"
+},
+     "cid": "22",
+"category_name": "FC Barcelona -- : -- RCD Espanyol",
+"category_image": "https://wahdiwna.com/test-json/upload/sevr.png"
+},
+{
+"cid": "21",
+"category_name": "AFC Bournemouth -- : -- Crystal Palace",
+"category_image": "https://wahdiwna.com/test-json/upload/west.png"
+},
+{
+      "cid": "20",
+"category_name": "FC Fulham -- : -- Southampton",
+"category_image": "https://wahdiwna.com/test-json/upload/liver.png"
+},
+{
+"cid": "19",
+"category_name": "Manchester City -- : -- FC Everton",
+"category_image": "https://wahdiwna.com/test-json/upload/real.png"
+},
+      {
 "cid": "18",
-"category_name": "Celta Vigo vs Sevilla",
+"category_name": "Newcastle United -- : -- Leeds United",
 "category_image": "https://wahdiwna.com/test-json/upload/sevr.png"
 },
 {
 "cid": "17",
-"category_name": "West Ham United vs Brentford",
+"category_name": "Real Sociedad -- : -- Osasuna",
 "category_image": "https://wahdiwna.com/test-json/upload/west.png"
 },
 {
       "cid": "16",
-"category_name": "Liverpool vs Leicester City",
+"category_name": "Villarreal CF -- : -- Valencia C.F",
 "category_image": "https://wahdiwna.com/test-json/upload/liver.png"
 },
 {
 "cid": "15",
-"category_name": "Real Valladolid vs Real Madrid",
+"category_name": "Brighton & Hove Albion -- : -- Arsenal",
 "category_image": "https://wahdiwna.com/test-json/upload/real.png"
 },
 {
@@ -73,9 +97,56 @@
 }
 ],
 "channels": [
+         {
+            "channel_id": "144",
+            "category_id": "23",
+            "channel_name": "(HD) بث مباشر",
+            "channel_image": "https://wahdiwna.com/test-json/upload/sevr.png",
+            "channel_url": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "Wolverhampton Wanderers -- : -- Manchester United ",
+            "user_agent": "yestv99"
+        },       
         {
-            "channel_id": "137",
-            "category_id": "18",
+            "channel_id": "143",
+            "category_id": "22",
+            "channel_name": "(HD) بث مباشر",
+            "channel_image": "https://wahdiwna.com/test-json/upload/west.png",
+            "channel_url": "1https://lb.buy-global.store/live/lb555/bs2-720.m3u8",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "FC Barcelona -- : -- RCD Espanyol",
+            "user_agent": "yestv99"
+        },       
+ {
+            "channel_id": "142",
+            "category_id": "21",
+            "channel_name": "(HD) بث مباشر",
+            "channel_image": "https://wahdiwna.com/test-json/upload/liver.png",
+            "channel_url": "1https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "Liverpool vs Leicester City ",
+            "user_agent": "yestv99"
+        },       
+        {
+            "channel_id": "141",
+            "category_id": "20",
+            "channel_name": "(HD) بث مباشر",
+            "channel_image": "https://wahdiwna.com/test-json/upload/real.png",
+            "channel_url": "1https://lb.buy-global.store/live/lb555/bs2-720.m3u8",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "Real Valladolid vs Real Madrid",
+            "user_agent": "yestv99"
+        },   {
+            "channel_id": "140",
+            "category_id": "19",
             "channel_name": "(HD) بث مباشر",
             "channel_image": "https://wahdiwna.com/test-json/upload/sevr.png",
             "channel_url": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
@@ -86,8 +157,8 @@
             "user_agent": "yestv99"
         },       
         {
-            "channel_id": "137",
-            "category_id": "17",
+            "channel_id": "139",
+            "category_id": "18",
             "channel_name": "(HD) بث مباشر",
             "channel_image": "https://wahdiwna.com/test-json/upload/west.png",
             "channel_url": "1https://lb.buy-global.store/live/lb555/bs2-720.m3u8",
@@ -98,6 +169,30 @@
             "user_agent": "yestv99"
         },       
  {
+            "channel_id": "138",
+            "category_id": "17",
+            "channel_name": "(HD) بث مباشر",
+            "channel_image": "https://wahdiwna.com/test-json/upload/liver.png",
+            "channel_url": "1https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "Liverpool vs Leicester City ",
+            "user_agent": "yestv99"
+        },       
+        {
+            "channel_id": "137",
+            "category_id": "15",
+            "channel_name": "(HD) بث مباشر",
+            "channel_image": "https://wahdiwna.com/test-json/upload/real.png",
+            "channel_url": "1https://lb.buy-global.store/live/lb555/bs2-720.m3u8",
+            "channel_description": "",
+            "channel_type": "URL",
+            "video_id": "",
+            "category_name": "Real Valladolid vs Real Madrid",
+            "user_agent": "yestv99"
+        },   
+       {
             "channel_id": "136",
             "category_id": "16",
             "channel_name": "(HD) بث مباشر",
@@ -120,7 +215,7 @@
             "video_id": "",
             "category_name": "Real Valladolid vs Real Madrid",
             "user_agent": "yestv99"
-        },       
+        }, 
 
 {
 "channel_id": "134",
